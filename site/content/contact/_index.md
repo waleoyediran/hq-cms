@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/hqp.jpg"
 contact_entries:
   - heading: Location
     text: "HQ Place, 000 Borno way, Yaba, Lagos"
